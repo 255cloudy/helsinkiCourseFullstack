@@ -1,0 +1,14 @@
+ul.countries{
+    list-style: none;
+}
+input {
+    margin: 10px;
+}
+body {
+    margin-left: 20px;
+    margin-top: 15px;
+    background-color: white;
+}
+button {
+    margin: 10px;
+}
